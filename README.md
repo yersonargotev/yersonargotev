@@ -24,7 +24,7 @@ I'm a **Full Stack Web Developer** with over 2 years of experience crafting mode
 
 🔗 **Let's Connect:**
 
-*   **GitHub:** [You're already here! Feel free to explore my repositories.](https://github.com/yersonargote) 🎯
+*   **GitHub:** [Feel free to explore my repositories.](https://github.com/yersonargote) 🎯
 *   **Freelance Github:** [You're already here! Feel free to explore my repositories.](https://github.com/yersonargotev) 🎯
 *   **LinkedIn:** [Yerson Argote](https://www.linkedin.com/in/yersonargote/) 👷‍♂️
 *   **Portfolio/Company:** [SparkyDevs](https://sparkydevs.com) 🌐
